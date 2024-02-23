@@ -1,0 +1,10 @@
+pytest~=8.0.0
+selenium~=4.17.2
+webdriver_manager==3.8.0
+
+pytest-html
+pytest-xdist
+openpyxl
+allure-pytest
+
+
